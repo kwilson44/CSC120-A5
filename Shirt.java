@@ -6,11 +6,29 @@
  */
 public class Shirt {
 
-    /*
-     * TODO: Modify this method to print ASCII Art Shirt
-     */
+      /** displays a sweater
+   *
+   * There's no parameter or return value
+   */
+
     public void display() {
-        System.out.println("Shirt?);
+        
+        System.out.println("                       ._      _. ");
+        System.out.println("                      /  `vvvv`  \\");
+        System.out.println("                 _-^^`'-..____..-'`^^-_");
+        System.out.println("                /`\\                    /`\\");
+        System.out.println("               /`  |                  |  `\\");
+        System.out.println("              /`   |    Pumpkin       |   `\\");
+        System.out.println("             /     |                  |     \\");
+        System.out.println("            /      /     Spicy        \\      \\");
+        System.out.println("           /       |                  |        \\");
+        System.out.println("          '-._____.|       ;)         |._____.-'");
+        System.out.println("            \\___\\  |                  | \\___\\");
+        System.out.println("                   |                  |");
+        System.out.println("                   |                  |");
+        System.out.println("                    `.---------------.`");
+
+
     }
 
     /* main method (for testing) */

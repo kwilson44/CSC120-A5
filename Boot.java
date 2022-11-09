@@ -16,11 +16,17 @@ public class Boot {
     /*
      * TODO: Modify this method to print ASCII Art Boot
      */
+
+       /** displays shoes
+   *
+   * There's no parameter or return value
+   */
+
     public void display() {
         if (this.direction.equals("left")) {
-          System.out.println("Left boot?");
+          System.out.print("                   |mwmwmw|");
         } else if (this.direction.equals("right")) {
-          System.out.println("Right boot?");
+          System.out.println("    |mwmwmw|");
         } else {
           System.out.println("Which boot?");
         }

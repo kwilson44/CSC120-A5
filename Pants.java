@@ -6,12 +6,26 @@
  */
 public class Pants {
 
-    /*
-     * TODO: Modify this method to print ASCII Art Pants
-     */
+      /** displays pants
+   *
+   * There's no parameter or return value
+   */
+
+    
     public void display() {
-        System.out.println("Pants?);
-    }
+        System.out.println("                   '=========GG========.");
+        System.out.println("                   |________/|\\________|");
+        System.out.println("                   |        ´|`         |");
+        System.out.println("                   |         |          |");
+        System.out.println("                   |         |          |");
+        System.out.println("                   |         |          |");
+        System.out.println("                   |         |          |");
+        System.out.println("                   |         |          |");
+        System.out.println("                   |         |          |");
+        System.out.println("                   |         |          |");
+        System.out.println("                   |         |          |");
+        System.out.println("                   |_________|__________|");    }
+
 
     /* main method (for testing) */
     public static void main(String[] args) {
